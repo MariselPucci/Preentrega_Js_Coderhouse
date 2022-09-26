@@ -66,7 +66,6 @@ function pintarProductos(arrayProd,carrito) {
     let column = document.createElement("div");
     column.className = "col-sm-6 col-md-3 mt-3";
     column.id = `columna-${producto.id}`;
-    console.log(`${producto.img}`)
     column.innerHTML = `
             <div class="card">
               <div class="inner"> 
