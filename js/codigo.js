@@ -4,7 +4,7 @@
 
 //Lista de productos disponibles
 const ARRAYPRODUCTOS = [
-  { id: 1, categoria: "Clases", nombre: "Clase de Baile", detalle: "Hip-Hop", precio: 2000, cantidad: 30, img: "/img/clases_1.jpg" },
+  { id: 1, categoria: "Clases", nombre: "Clase de Baile", detalle: "Hip-Hop", precio: 2000, cantidad: 30, img: "img/clases_1.jpg" },
   { id: 2, categoria: "Clases", nombre: "Clase de Baile", detalle: "Jazz Fusión", precio: 2300, cantidad: 30, img: "../img/clases_2.jpg" },
   { id: 3,  categoria: "Clases", nombre: "Clase de Baile", detalle: "Reggaeton Kids", precio: 1300, cantidad: 20,  img: "../img/clases_3.jpg"},
   { id: 4,  categoria: "Clases", nombre: "Clase de Baile", detalle: "Street Intermedio", precio: 2000, cantidad: 30,  img: "../img/clases_4.jpg"},
